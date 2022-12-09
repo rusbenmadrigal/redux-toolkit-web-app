@@ -17,7 +17,7 @@ function TasksList() {
           to="/create-task"
           className="bg-indigo-600 px-2 py-1 rounded-sm text-sm"
         >
-          create Task
+          Create Task
         </Link>
       </header>
       <div className="grid grid-cols-3 gap-4">
